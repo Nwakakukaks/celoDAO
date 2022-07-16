@@ -1,3 +1,5 @@
+
+
 ## Installing / Getting started
 
 After cloning the project cd into it and run
@@ -8,6 +10,12 @@ truffle migrate
 ```
 
 The first command installs the necessary node packages while the second command deloys the contract to the local development server so you must make sure to have a ganache instance running at port 7545.
+
+Celo DAO consist of 
+Smart contracts deployed on the celo blockchain 
+A react native app to interact with the smart contract
+Fully mobile compatible 
+iOS/android 
 
 ##tech stack
 
